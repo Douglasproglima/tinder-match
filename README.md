@@ -11,4 +11,10 @@
 
 ## Importar script como extensão:
 
+![mapa](./img/01.png)
 
+![mapa](./img/02.png)
+
+![mapa](./img/03.png)
+
+![mapa](./img/04.png)
